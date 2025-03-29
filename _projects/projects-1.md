@@ -13,9 +13,9 @@ collection: projects
   systems, this service uses **kafka** to receive and respond to Provider inputs in real-time, improving overall service
   efficiency.
 - **My Role**: Spearheaded the development of project designed to handle multiple providers from different EHR systems
-  for appointment scheduling, data updation and interaction automation. The service was built using **Python** and *
-  *FastAPI**, leveraging **Kafka Queuing Service** for to process the data in realtime queries. The system utilized *
-  *kubernetes** for deployment, ensuring scalable and cost-efficient operations.
+  for appointment scheduling, data updation and interaction automation. The service was built using **Python** and
+  **FastAPI**, leveraging **Kafka Queuing Service** for to process the data in realtime queries. The system utilized 
+  **kubernetes** for deployment, ensuring scalable and cost-efficient operations.
 - **Key Contributions**:
     - Implemented real-time conversational workflows with **Redis** as the in-memory database for managing session
       states.

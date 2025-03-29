@@ -5,13 +5,13 @@ collection: projects
 ---
 
 - **Technologies**: Python, PySpark, AWS EMR, Spark Operator, Databricks, RESTful APIs, Kafka, PostgreSQL, FHIR
-- **Description**: The FHIR Data Transformation Tool is an advanced solution designed to convert healthcare data into
-  the Fast Healthcare Interoperability Resources (FHIR) standard, promoting seamless data exchange across diverse
-  healthcare systems.
+- **Description**: The FHIR Data Transformation Tool is an advanced solution designed using **PySpark** to convert
+  healthcare data into the Fast Healthcare Interoperability Resources (**FHIR**) standard, promoting seamless data
+  exchange across diverse healthcare systems.
 - **My Role**: Designed and implemented a **FHIR** (Fast Healthcare Interoperability Resources) data transformation tool
-  to facilitate the extraction, transformation, and loading (ETL) of healthcare data in compliance with FHIR standards.
-  The tool allowed seamless access to patient data via RESTful APIs, ensuring interoperability between different
-  healthcare systems.
+  to facilitate the **extraction, transformation, and loading** (ETL) of healthcare data in compliance with FHIR
+  standards. The tool allowed seamless access to patient data via **RESTful APIs**, ensuring interoperability between
+  different healthcare systems.
 - **Key Contributions**:
     - Developed data transformation pipelines using **PySpark** and **pandas** for efficient transformation of large
       datasets into the FHIR format.
